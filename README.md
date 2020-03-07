@@ -5,7 +5,7 @@ Este proyecto consistirá en un pequeño invernadero en el que el usuario podrá
 ## Integrantes del equipo
 
 Jaime Pérez Calvo, 
-Cristina Trapero Giles, @ctgiles
+Cristina Trapero Giles, @ctgiles, @jaimepc00
 
 ## Objetivos del trabajo
 
